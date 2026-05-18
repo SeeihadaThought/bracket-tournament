@@ -1,3 +1,5 @@
+Enter: https://sirenllux.github.io/bracket-tournament
+
 Bracket
 
 An image-based tournament tool. Upload images of your favorite characters, foods, movie posters, or anything else, then pick one of two until only one remains.
